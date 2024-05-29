@@ -7,6 +7,12 @@ The objective of our code is to explore the U-Net model architecture, a popular 
 
 The authors of the project are: [Alicja Terelak](https://github.com/aterelak), [Hiba Asif](https://github.com/A-Hiba), [Hasibe Savaş](https://github.com/hasibesavas), and Kinga Mazurek.
 
+### Original Paper & Implementation
+The original paper can be accessed via [this link](https://arxiv.org/abs/1505.04597).
+
 
 ## References
 1. Ronneberger, O., Fischer, P., & Brox, T. (2015). U-net: Convolutional networks for biomedical image segmentation. In _Medical image computing and computer-assisted intervention–MICCAI 2015: 18th international conference, Munich, Germany, October 5-9, 2015, proceedings, part III 18_ (pp. 234-241). Springer International Publishing.
+U-Net---Biomedical-Image-Segmentation
+Implementation of the paper titled - U-Net: Convolutional Networks for Biomedical Image Segmentation
+
